@@ -145,7 +145,6 @@ GameManager.prototype.move = function (direction) {
           if (merged.value === 21) self.won = true;
           if (merged.value === 29) self.won = true;
           if (merged.value === 42) self.won = true;
-          if (merged.value === 43) self.won = true;
           if (merged.value === 47) self.won = true;
         } else {
           self.moveTile(tile, positions.farthest);
