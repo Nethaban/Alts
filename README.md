@@ -1,3 +1,3 @@
-# 12
+# Alts
 
-12
+alts based on rarity
